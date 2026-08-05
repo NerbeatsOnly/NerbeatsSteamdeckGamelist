@@ -49,6 +49,15 @@
     "cover": "covers/pc/cricket 26.jpg",
     "favorite": false
   },
+
+  {
+    "title": "crimson desert",
+    "platform": "PC",
+    "size": 150,
+    "cover": "covers/pc/crimson desert.jpg",
+    "favorite": false
+  },
+
   {
     "title": "cronos the new dawn",
     "platform": "PC",
@@ -2218,6 +2227,14 @@
     "platform": "PC",
     "size": 130,
     "cover": "covers/pc/assassins creed shadows.jpg",
+    "favorite": false
+  },
+
+    {
+    "title": "beast of reincarnation",
+    "platform": "PC",
+    "size": 32,
+    "cover": "covers/pc/beast of reincarnation.jpg",
     "favorite": false
   },
 
