@@ -916,6 +916,15 @@
     "cover": "covers/pc/marvels avengers.jpg",
     "favorite": false
   },
+
+  {
+    "title": "marvel tokon fighting souls",
+    "platform": "PC",
+    "size": 20,
+    "cover": "covers/pc/marvel tokon fighting souls.jpg",
+    "favorite": false
+  },
+
   {
     "title": "max payne 3",
     "platform": "PC",
@@ -1117,9 +1126,9 @@
   },
 
   {
-    "title": "nba 2k27 mod",
+    "title": "nba 2k27",
     "platform": "PC",
-    "size": 165,
+    "size": 125,
     "cover": "covers/pc/nba 2k27.jpg",
     "favorite": false
   },
