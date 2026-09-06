@@ -415,6 +415,14 @@
     "favorite": false
   },
 
+ {
+    "title": "a plague tale resonance",
+    "platform": "PC",
+    "size": 77,
+    "cover": "covers/pc/a plague tale resonance.jpg",
+    "favorite": false
+  },
+
   {
     "title": "fight night champion",
     "platform": "PC",
@@ -1060,6 +1068,15 @@
     "cover": "covers/pc/mortal kombat 11.jpg",
     "favorite": false
   },
+
+  {
+    "title": "mortal kombat 1",
+    "platform": "PC",
+    "size": 162,
+    "cover": "covers/pc/mortal kombat 1.jpg",
+    "favorite": false
+  },
+
   {
     "title": "motogp 26",
     "platform": "PC",
@@ -1103,14 +1120,14 @@
     "favorite": false
   },
   {
-    "title": "nba 2k14",
+    "title": "NBA 2K14",
     "platform": "PC",
     "size": 8,
     "cover": "covers/pc/nba 2k14.jpg",
     "favorite": false
   },
   {
-    "title": "nba 2k16",
+    "title": "NBA 2K16",
     "platform": "PC",
     "size": 42,
     "cover": "covers/pc/nba 2k16.jpg",
@@ -1118,7 +1135,7 @@
   },
 
 {
-    "title": "nba 2k17",
+    "title": "NBA 2K17",
     "platform": "PC",
     "size": 58,
     "cover": "covers/pc/nba 2k17.jpg",
@@ -1126,7 +1143,7 @@
   },
 
   {
-    "title": "nba 2k27",
+    "title": "NBA 2K27",
     "platform": "PC",
     "size": 125,
     "cover": "covers/pc/nba 2k27.jpg",
@@ -1246,6 +1263,15 @@
     "cover": "covers/pc/one piece world seeker.jpg",
     "favorite": false
   },
+
+ {
+    "title": "onimusha way of the sword",
+    "platform": "PC",
+    "size": 56,
+    "cover": "covers/pc/onimusha way of the sword.jpg",
+    "favorite": false
+  },
+
   {
     "title": "palworld",
     "platform": "PC",
@@ -1658,6 +1684,15 @@
     "cover": "covers/pc/star wars jedi survivor.jpg",
     "favorite": false
   },
+
+ {
+    "title": "star wars outlaws",
+    "platform": "PC",
+    "size": 83,
+    "cover": "covers/pc/star wars outlaws.jpg",
+    "favorite": false
+  },
+
   {
     "title": "starfield",
     "platform": "PC",
