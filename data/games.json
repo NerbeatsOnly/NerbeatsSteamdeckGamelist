@@ -307,6 +307,15 @@
     "cover": "covers/pc/dynasty warriors.jpg",
     "favorite": false
   },
+
+  {
+    "title": "dune awakening",
+    "platform": "PC",
+    "size": 43,
+    "cover": "covers/pc/dune awakening.jpg",
+    "favorite": false
+  },
+
   {
     "title": "EA sports college football 27",
     "platform": "PC",
@@ -1530,6 +1539,15 @@
     "cover": "covers/pc/silent hill f.jpg",
     "favorite": false
   },
+
+{
+    "title": "silent hill townfall",
+    "platform": "PC",
+    "size": 74,
+    "cover": "covers/pc/silent hill townfall.jpg",
+    "favorite": false
+  },
+
   {
     "title": "skullgirls 2nd encore",
     "platform": "PC",
@@ -1812,6 +1830,14 @@
     "platform": "PC",
     "size": 69,
     "cover": "covers/pc/the last of us.jpg",
+    "favorite": false
+  },
+
+  {
+    "title": "the blood of dawnwalker",
+    "platform": "PC",
+    "size": 55,
+    "cover": "covers/pc/the blood of dawnwalker.jpg",
     "favorite": false
   },
 
@@ -2143,6 +2169,15 @@
     "cover": "covers/pc/black myth wukong.jpg",
     "favorite": false
   },
+
+ {
+    "title": "blackwood",
+    "platform": "PC",
+    "size": 25,
+    "cover": "covers/pc/blackwood.jpg",
+    "favorite": false
+  },
+
   {
     "title": "bleach: rebirth of souls",
     "platform": "PC",
