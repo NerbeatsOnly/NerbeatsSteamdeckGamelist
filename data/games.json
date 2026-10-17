@@ -550,6 +550,23 @@
     "cover": "covers/pc/god of war.jpg",
     "favorite": false
   },
+
+{
+    "title": "god of war 3 remastered",
+    "platform": "PC",
+    "size": 46,
+    "cover": "covers/pc/god of war 3.jpg",
+    "favorite": false
+  },
+
+    {
+    "title": "infamous second son",
+    "platform": "PC",
+    "size": 27,
+    "cover": "covers/pc/infamous second son.jpg",
+    "favorite": false
+  },
+
   {
     "title": "gothic 1 remake",
     "platform": "PC",
